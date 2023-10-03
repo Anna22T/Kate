@@ -23,6 +23,10 @@ h1 {
   text-align: center;
   color: var(--violetred);
 }
+h2 {
+  text-align: center;
+  color: var(--violetred);
+}
 
 form {
   width: 400px;
