@@ -27,6 +27,12 @@ h2 {
   text-align: center;
   color: var(--violetred);
 }
+#counter {
+  text-align: center;
+}
+.counter{
+  text-align: center;
+}
 
 form {
   width: 400px;
@@ -34,7 +40,7 @@ form {
 figure {
   margin: 1%;
 }
-/* Code for exercise 01-navbar */
+
 .navbar {
   display: flex;
   /* align-items: flex-end; */
